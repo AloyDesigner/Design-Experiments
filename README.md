@@ -19,3 +19,8 @@ Sugestões são sempre bem-vindas! Fique à vontade para abrir uma issue ou envi
 ---
 
 **Atualizações diárias:** Este repositório será atualizado diariamente com pequenas tarefas que refletem o progresso no aprendizado e execução de projetos de design.
+
+## Protótipos Recentes  
+
+### Tela de Login  
+![Tela de Login](./login.png)
