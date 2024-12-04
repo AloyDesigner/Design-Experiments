@@ -11,11 +11,11 @@ Meu objetivo é criar protótipos interativos, documentar processos de design e 
 - Documentação de aprendizados  
 
 ## Sobre mim  
-Sou Product Designer em formação, dedicado(a) a aprender na prática e construir projetos significativos. Este repositório é o reflexo da minha jornada.  
+Sou Product Designer, dedicado a aprender na prática e construir projetos significativos. Este repositório é o reflexo da minha jornada.
 
 ## Contribuições  
 Sugestões são sempre bem-vindas! Fique à vontade para abrir uma issue ou enviar um pull request.  
 
 ---
 
-**Atualizações diárias:** Este repositório será atualizado diariamente com pequenas tarefas que refletem o progresso no aprendizado e execução de projetos de design.  
+**Atualizações diárias:** Este repositório será atualizado diariamente com pequenas tarefas que refletem o progresso no aprendizado e execução de projetos de design.
